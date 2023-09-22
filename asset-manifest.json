@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/modern-calculator/static/css/main.4cb842a6.css",
+    "main.js": "/modern-calculator/static/js/main.a4358ee2.js",
+    "static/js/787.a174f9e5.chunk.js": "/modern-calculator/static/js/787.a174f9e5.chunk.js",
+    "static/media/cartoon.jpg": "/modern-calculator/static/media/cartoon.2e45217f4247c7228ca7.jpg",
+    "index.html": "/modern-calculator/index.html",
+    "main.4cb842a6.css.map": "/modern-calculator/static/css/main.4cb842a6.css.map",
+    "main.a4358ee2.js.map": "/modern-calculator/static/js/main.a4358ee2.js.map",
+    "787.a174f9e5.chunk.js.map": "/modern-calculator/static/js/787.a174f9e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cb842a6.css",
+    "static/js/main.a4358ee2.js"
+  ]
+}
